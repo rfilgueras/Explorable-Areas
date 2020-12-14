@@ -1,0 +1,13 @@
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\bin\Debug\netcoreapp3.1\InClassAssignmentWeek7.exe
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\bin\Debug\netcoreapp3.1\InClassAssignmentWeek7.deps.json
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\bin\Debug\netcoreapp3.1\InClassAssignmentWeek7.runtimeconfig.json
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\bin\Debug\netcoreapp3.1\InClassAssignmentWeek7.runtimeconfig.dev.json
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\bin\Debug\netcoreapp3.1\InClassAssignmentWeek7.dll
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\bin\Debug\netcoreapp3.1\InClassAssignmentWeek7.pdb
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\obj\Debug\netcoreapp3.1\InClassAssignmentWeek7.csprojAssemblyReference.cache
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\obj\Debug\netcoreapp3.1\InClassAssignmentWeek7.AssemblyInfoInputs.cache
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\obj\Debug\netcoreapp3.1\InClassAssignmentWeek7.AssemblyInfo.cs
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\obj\Debug\netcoreapp3.1\InClassAssignmentWeek7.csproj.CoreCompileInputs.cache
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\obj\Debug\netcoreapp3.1\InClassAssignmentWeek7.dll
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\obj\Debug\netcoreapp3.1\InClassAssignmentWeek7.pdb
+C:\Users\ashly\source\repos\InClassAssignmentWeek7\InClassAssignmentWeek7\obj\Debug\netcoreapp3.1\InClassAssignmentWeek7.genruntimeconfig.cache
